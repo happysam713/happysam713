@@ -33,11 +33,20 @@ One commit at a time. 🧡
 
 ---
 
-## 💌 Latest love letter
+## 💌 happy 10 Months Anniversary
 
 > **10 Months with My Sunshine** — *May 13, 2026*  
 > A flip-card anniversary experience built for Happiness.  
-> 🔗 [happiness-10months.vercel.app](https://happiness-10months.vercel.app)
+> 🔗 [10 months]((https://happysam713.github.io/10months/))
+
+---
+---
+
+## 💌 Countdown to 1 year
+
+> **1 whole year with My Sunshine** — *July 13, 2026*  
+> A countdowntimer experience built for myself and Happiness.  
+> 🔗 [countdown]((https://happysam713.github.io/countdown/))
 
 ---
 

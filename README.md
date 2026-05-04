@@ -33,20 +33,19 @@ One commit at a time. 🧡
 
 ---
 
-## 💌 happy 10 Months Anniversary
+## 💌 Happy 10 Months Anniversary
 
 > **10 Months with My Sunshine** — *May 13, 2026*  
 > A flip-card anniversary experience built for Happiness.  
-> 🔗 [10 months]((https://happysam713.github.io/10months/))
+> 🔗 [10 months](https://happysam713.github.io/10months/)
 
 ---
----
 
-## 💌 Countdown to 1 year
+## 💌 Countdown to 1 Year
 
 > **1 whole year with My Sunshine** — *July 13, 2026*  
-> A countdowntimer experience built for myself and Happiness.  
-> 🔗 [countdown]((https://happysam713.github.io/countdown/))
+> A countdown timer experience built for myself and Happiness.  
+> 🔗 [Countdown](https://happysam713.github.io/countdown/)
 
 ---
 
